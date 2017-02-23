@@ -4,8 +4,13 @@
 }
 
 #sec1 {
+  margin-top: -21px;
+  margin-bottom: 20px;
+  padding: 20px;
   text-align: center;
-  background-image: url();
+  background-image: url(../images/images.jpg);
+  background-size: cover;
+  color: gold;
 }
 
 .head1 {
