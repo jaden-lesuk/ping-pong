@@ -3,6 +3,11 @@
   src: url(../fonts/orange.ttf);
 }
 
+#sec1 {
+  text-align: center;
+  background-image: url();
+}
+
 .head1 {
   font-family: myFont;
   font-size: 200px;
