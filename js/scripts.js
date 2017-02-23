@@ -14,5 +14,9 @@ $(document).ready(function () {
 				field.push(index)
 			}
 		}
+		for (counter = 0; counter < num; counter++) {
+			var ind = field[counter];
+			$("ul#results").append("<li>" + ind + "</li>");
+		}
 	});
 });
