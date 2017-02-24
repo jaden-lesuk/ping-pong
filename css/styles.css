@@ -10,13 +10,12 @@
   text-align: center;
   background-image: url(../images/images.jpg);
   background-size: cover;
-  color: #00bfff;
+  color: #872a8e;
 }
 
 .head1 {
   font-family: myFont;
   font-size: 200px;
-  color: #00bfff;
 }
 
 .head2 {
